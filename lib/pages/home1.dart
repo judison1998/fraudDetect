@@ -1,12 +1,10 @@
 //import 'dart:html';
 
 import 'package:flutter/material.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:fraud_detector/pages/start_page.dart';
 
 import '../widgets/colors.dart';
-import 'details.dart';
 
 class Home1 extends StatefulWidget {
   const Home1({Key? key}) : super(key: key);
@@ -84,6 +82,8 @@ class _Home1State extends State<Home1> {
           ],
         ),
       ),
+    ])
+    )
     );
   }
 }

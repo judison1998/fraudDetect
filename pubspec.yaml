@@ -34,7 +34,7 @@ dependencies:
   cloud_firestore:
 
   flutter_typeahead:
-  flutter_google_places:
+
   firebase_auth:
 
 
